@@ -1,5 +1,5 @@
 {
-"lists":[
+"products":[
   {"id":1,"name":"Lilac-breasted roller s","category":"Fuscia"},
 {"id":2,"name":"Collared lizard","category":"Mauv"},
 {"id":3,"name":"Sage grouse","category":"Purple"},
@@ -17,7 +17,5 @@
 {"id":15,"name":"Chestnut weaver","category":"Khaki"},
 {"id":16,"name":"Small-toothed palm civet","category":"Yellow"},
 {"id":17,"name":"Vulture, griffon","category":"Purple"},
-{"id":18,"name":"Sage hen","category":"Fuscia"},
-{"id":19,"name":"Arctic tern","category":"Orange"},
-{"id":20,"name":"Falcon, peregrine","category":"Pink"}]
+{"id":18,"name":"Sage hen","category":"Fuscia"}]
 }
