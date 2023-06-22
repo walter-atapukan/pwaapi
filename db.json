@@ -1,5 +1,5 @@
 {
-"products":[[{"id":1,"name":"Lilac-breasted roller","category":"Fuscia"},
+"products":[{"id":1,"name":"Lilac-breasted roller","category":"Fuscia"},
 {"id":2,"name":"Collared lizard","category":"Mauv"},
 {"id":3,"name":"Sage grouse","category":"Purple"},
 {"id":4,"name":"Squirrel, palm","category":"Green"},
@@ -48,5 +48,5 @@
 {"id":47,"name":"Eastern grey kangaroo","category":"Red"},
 {"id":48,"name":"Loris, slender","category":"Yellow"},
 {"id":49,"name":"Australian brush turkey","category":"Indigo"},
-{"id":50,"name":"Black-backed magpie","category":"Maroon"}]]
+{"id":50,"name":"Black-backed magpie","category":"Maroon"}]
 }
